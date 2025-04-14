@@ -81,13 +81,6 @@ Evaluation was performed on a test dataset disjoint from training/validation set
 
 ---
 
-## 👥 Team Contributions
-
-- **Naveen & Jyoti**: Data preprocessing and exploration
-- **All members**: Model development, training, evaluation, report writing, and presentation
-- Attempted to explore Falcon model as an alternative but did not proceed
-
----
 
 ## 💡 Conclusion
 
