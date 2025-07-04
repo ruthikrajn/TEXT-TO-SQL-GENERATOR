@@ -1,7 +1,5 @@
 # Text-to-SQL Generator
 
-### 📚 IE 7500 – Applied Natural Language Processing  
-**Fall 2023 Final Project**  
 **Author:** Ruthik Raj Nataraja  
 
 ---
